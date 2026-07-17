@@ -20,5 +20,4 @@ Analisis faktor-faktor yang mempengaruhi Surge Pricing pada layanan taksi Sigma 
 3. Customer Experience & Service Quality
 
 ## 📎 Link Akses
-- PowerBI: https://drive.google.com/file/d/1BVacwDNEV4bDEIYXqgessQMhCVBnod4q/view?usp=sharing
 - PPT Canva: https://canva.link/uetxde0kjlmlcc0
