@@ -21,3 +21,8 @@ Analisis faktor-faktor yang mempengaruhi Surge Pricing pada layanan taksi Sigma 
 
 ## 📎 Link Akses
 - PPT Canva: https://canva.link/uetxde0kjlmlcc0
+
+## Catatan Akses File:
+- sigma_cabs.csv adalah dataset mentah yang digunakan dalam proses EDA di Google Colab (menggunakan mounting Google Drive).
+- sigma_cabs_clean.csv adalah dataset hasil preprocessing yang langsung terhubung dengan file Power BI (dashboard.pbix).
+- Untuk menjalankan file .pbix, unduh sigma_cabs_clean.csv dan tempatkan di folder yang sama dengan file .pbix, atau atur ulang koneksi data di Power BI.
